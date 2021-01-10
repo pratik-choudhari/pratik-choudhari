@@ -1,18 +1,13 @@
-<div style="text-align:center"><img src=https://media.giphy.com/media/26FKVpDa0ZSfLELuM/source.gif width="400" height="200"></div>
+<h1><p align="center"><img src=https://media.giphy.com/media/26FKVpDa0ZSfLELuM/source.gif width="400" height="200"></p>
+</h1>
+<h1 align="center">Hi there 👋, I am Pratik Choudhari</h1>
 
-## Hi there 👋
+- 🔭 I’m currently working on diving deeper into Python🐍
+- 🌱 I’m currently learning MongoDB🥬 and redis💽
+- 🤔 I’m looking for help with learning Javascript
+- 💬 Ask me about python and data science
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pratik-choudhari/), Discord- *pratik-choudhari#1175*
+- 😄 Pronouns: he, his
+- ⚡ Fun fact: the word __"bug"__ (like a software bug) is called so because engineers literally found bugs(insects) in CPUs!
 
-<!--
-**pratik-choudhari/pratik-choudhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--- 👯 I’m looking to collaborate on --->
