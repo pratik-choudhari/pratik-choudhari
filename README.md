@@ -10,4 +10,5 @@
 - 😄 Pronouns: he, his
 - ⚡ Fun fact: the word __"bug"__ (like a software bug) is called so because engineers literally found bugs(insects) in CPUs!
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=pratik-choudhari" alt="Pratik's Github readme stats"></p>
 <!--- 👯 I’m looking to collaborate on --->
