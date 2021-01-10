@@ -1,4 +1,6 @@
-### Hi there 👋
+<div style="text-align:center"><img src=https://media.giphy.com/media/26FKVpDa0ZSfLELuM/source.gif width="400" height="200"></div>
+
+## Hi there 👋
 
 <!--
 **pratik-choudhari/pratik-choudhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
