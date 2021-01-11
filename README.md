@@ -2,7 +2,7 @@
 </h1>
 <h1 align="center">Hi there 👋, I am Pratik Choudhari</h1>
 
-- 🔭 I’m currently working on diving deeper into Python🐍
+- 🔭 I’m currently working on my Pythonic skills🐍
 - 🌱 I’m currently learning MongoDB🥬 and redis💽
 - 🤔 I’m looking for help with learning Javascript
 - 💬 Ask me about python and data science
