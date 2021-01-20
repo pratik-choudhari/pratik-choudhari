@@ -15,5 +15,5 @@
 [![protonmail.com](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:pratik_choudhari@protonmail.com) 
 [![medium.com](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://pratik-choudhari.medium.com/)
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=pratik-choudhari" alt="Pratik's Github readme stats"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=pratik-choudhari&theme=jolly&show_icons=true" alt="Pratik's Github readme stats"></p>
 <!--- 👯 I’m looking to collaborate on --->
