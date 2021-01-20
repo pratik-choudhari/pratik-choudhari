@@ -1,4 +1,4 @@
-<h1><p align="center"><img src=https://media.giphy.com/media/26FKVpDa0ZSfLELuM/source.gif width="400" height="200"></p></h1>
+<p align="center"><img src=https://media.giphy.com/media/26FKVpDa0ZSfLELuM/source.gif width="400" height="200"></p>
 
 <h1 align="center">Hi there 👋, I am Pratik Choudhari</h1>
 <b><p align="center">Pythoneer🐍 | Automation🛠 | Web Scraping⛏</p></b>
