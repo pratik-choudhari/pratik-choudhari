@@ -1,7 +1,7 @@
 <h1><p align="center"><img src=https://media.giphy.com/media/26FKVpDa0ZSfLELuM/source.gif width="400" height="200"></p></h1>
 
 <h1 align="center">Hi there 👋, I am Pratik Choudhari</h1>
-<h2 align="center">Pythoneer🐍 | Automation🛠 | Web Scraping⛏</h2>
+<b><p align="center">Pythoneer🐍 | Automation🛠 | Web Scraping⛏</p></b>
 
 
 - 🔭 I’m currently working on building a telegram bot🤖
