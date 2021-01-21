@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning MongoDB🥬
 - 🤔 I’m looking for help with learning Julia
 - 💬 Ask me about python and data science
-- 😄 Pronouns: he, his
+- 😄 Pronouns: he, him
 - ⚡ Fun fact: the word __"bug"__ (like a software bug) is called so because engineers literally found bugs(insects) in CPUs!
 - 📫 How to reach me: 
 [![linkedin.com](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-choudhari/) 
