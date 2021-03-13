@@ -4,10 +4,9 @@
 <b><p align="center">Pythoneer🐍 | Automation🛠 | Web Scraping⛏</p></b>
 
 
-- 🔭 I’m currently working on building a telegram bot🤖
-- 🌱 I’m currently learning MongoDB🥬
-- 🤔 I’m looking for help with learning Julia
-- 💬 Ask me about python and data science
+- 🔭 I’m currently working on building a docker guide🤖
+- 🌱 I’m currently learning p5.js
+- 💬 Ask me about python, automation and data science
 - 😄 Pronouns: he, him
 - ⚡ Fun fact: the word __"bug"__ (like a software bug) is called so because engineers literally found bugs(insects) in CPUs!
 - 📫 How to reach me: 
