@@ -4,7 +4,7 @@
 <b><p align="center">Pythoneer🐍 | Automation🛠 | Web Scraping⛏</p></b>
 
 
-- 🔭 I’m currently working on building a docker guide🤖
+<!-- - 🔭 I’m currently working on building a docker guide🤖 -->
 - 🌱 I’m currently learning p5.js
 - 💬 Ask me about python, automation and data science
 - 😄 Pronouns: he, him
