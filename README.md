@@ -5,7 +5,7 @@
 
 
 <!-- - 🔭 I’m currently working on building a docker guide🤖 -->
-- 🌱 I’m currently learning p5.js
+- 🌱 I’m currently learning javascript
 - 💬 Ask me about python, automation and data science
 - 😄 Pronouns: he, him
 - ⚡ Fun fact: the word __"bug"__ (like a software bug) is called so because engineers literally found bugs(insects) in CPUs!
@@ -16,10 +16,9 @@
 
 __Top open-source contributions:__
 
-Repository | Stars
----|---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratik-choudhari&repo=AlgoCode)](https://github.com/pratik-choudhari/AlgoCode) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DarshanDeshpande&repo=Scrapera)](https://github.com/DarshanDeshpande/Scrapera)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratik-choudhari&repo=docker-guide)](https://github.com/pratik-choudhari/docker-guide) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratik-choudhari&repo=StockNotify)](https://github.com/pratik-choudhari/StockNotify)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratik-choudhari&repo=AlgoCode)](https://github.com/pratik-choudhari/AlgoCode)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DarshanDeshpande&repo=Scrapera)](https://github.com/DarshanDeshpande/Scrapera)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratik-choudhari&repo=docker-guide)](https://github.com/pratik-choudhari/docker-guide)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratik-choudhari&repo=StockNotify)](https://github.com/pratik-choudhari/StockNotify)
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=pratik-choudhari&theme=jolly&show_icons=true" alt="Pratik's Github readme stats"></p>
