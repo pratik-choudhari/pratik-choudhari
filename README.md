@@ -15,14 +15,12 @@
 [![medium.com](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://pratik-choudhari.medium.com/)
 
 __Top open-source contributions:__
-<br>
+
 Repository | Stars
 ---|---
- [Scrapera](https://github.com/DarshanDeshpande/Scrapera) | 255
- [AlgoCode](https://github.com/pratik-choudhari/AlgoCode) | 113
- [img_ai_app_boilerplate](https://github.com/smaranjitghose/img_ai_app_boilerplate) | 21
- 
-<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratik-choudhari&repo=AlgoCode)](https://github.com/pratik-choudhari/AlgoCode) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DarshanDeshpande&repo=Scrapera)](https://github.com/DarshanDeshpande/Scrapera)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratik-choudhari&repo=docker-guide)](https://github.com/pratik-choudhari/docker-guide) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratik-choudhari&repo=StockNotify)](https://github.com/pratik-choudhari/StockNotify)
+
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=pratik-choudhari&theme=jolly&show_icons=true" alt="Pratik's Github readme stats"></p>
 <!--- 👯 I’m looking to collaborate on --->
