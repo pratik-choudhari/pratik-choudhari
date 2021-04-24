@@ -10,8 +10,9 @@
 - 😄 Pronouns: he, him
 - ⚡ Fun fact: the word __"bug"__ (like a software bug) is called so because engineers literally found bugs(insects) in CPUs!
 - 📫 How to reach me: 
+
 [![linkedin.com](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-choudhari/) 
-[![protonmail.com](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:pratik_choudhari@protonmail.com) 
+[![protonmail.com](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:pratik_choudhari@pm.me) 
 [![medium.com](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://pratik-choudhari.medium.com/)
 
 __Top open-source contributions:__
