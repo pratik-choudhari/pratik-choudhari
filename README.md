@@ -1,7 +1,7 @@
 <p align="center"><img src=https://media1.tenor.com/images/25de5ae4b3a35de905166d6a8cc92411/tenor.gif?itemid=13245309 width="400" height="200"></p>
 
 <h1 align="center">I am Pratik Choudhari</h1>
-<b><p align="center">Pythoneer🐍 | Automation🛠 | Web Scraping⛏</p></b>
+<b><p align="center">Pythoneer🐍 | Automation🛠 | Blogging | Web Scraping⛏</p></b>
 
 
 <!-- - 🔭 I’m currently working on building a docker guide🤖 -->
@@ -16,10 +16,10 @@
 [![medium.com](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://pratik-choudhari.medium.com/)
 
 __Top open-source contributions:__
+ 
 
-Top | Contributions
--- | --
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratik-choudhari&repo=AlgoCode)](https://github.com/pratik-choudhari/AlgoCode) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DarshanDeshpande&repo=Scrapera)](https://github.com/DarshanDeshpande/Scrapera)
+-- | --
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratik-choudhari&repo=docker-guide)](https://github.com/pratik-choudhari/docker-guide) |   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratik-choudhari&repo=StockNotify)](https://github.com/pratik-choudhari/StockNotify)
 
 
