@@ -5,7 +5,7 @@
 
 
 <!-- - 🔭 I’m currently working on building a docker guide🤖 -->
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning smart contracts on ethereum blockchain
 - 💬 Ask me about python, automation and data science
 - 😄 Pronouns: he, him
 - ⚡ Fun fact: the word __"bug"__ (like a software bug) is called so because engineers literally found bugs(insects) in CPUs!
@@ -13,10 +13,12 @@
 
 [![linkedin.com](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-choudhari/) 
 [![protonmail.com](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:pratik_choudhari@pm.me) 
-[![medium.com](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://pratik-choudhari.medium.com/)
 
-__Top open-source contributions:__
- 
+### Blogs
+- [Medium](https://pratik-choudhari.medium.com/)
+- [Python Engineer](https://www.python-engineer.com/authors/pratik/)
+
+### Top open-source contributions
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratik-choudhari&repo=AlgoCode)](https://github.com/pratik-choudhari/AlgoCode) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DarshanDeshpande&repo=Scrapera)](https://github.com/DarshanDeshpande/Scrapera)
 -- | --
