@@ -9,7 +9,8 @@
 
 ### Skills and Tech
 
-- Data wrangling: Pandas, Numpy, Matplotlib, Apache AirFlow
+- Data wrangling: Pandas, Numpy, Matplotlib
+- Scheduling: Apache AirFlow, Crontab
 - Database: SQL Server, MySQL, MongoDB, Redis
 - Deployment: Github, Jenkins, AWS, Linux Server
 - Languages: Python, C, BASH, Java  
