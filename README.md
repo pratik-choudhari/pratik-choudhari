@@ -3,7 +3,7 @@
 <b><p align="center">Python🐍 | Automation🛠 | Blogging | Everything Data⛏</p></b>
 
 
-- 🌱 Hi! I’m Pratik Choudhari and I am currently pursuing Master's in Applied Computing at Uwindsor, CA
+- 🌱 Hi! I’m Pratik Choudhari and I am currently pursuing Master's of Applied Computing at Uwindsor, CA
 - 💬 Ask me about Data Engineering and Python
 - 😄 Pronouns: he, him
 
