@@ -1,6 +1,6 @@
 <p align="center"><img src=https://media1.tenor.com/images/25de5ae4b3a35de905166d6a8cc92411/tenor.gif?itemid=13245309 width="400" height="200"></p>
 
-<b><p align="center">Python🐍 | Automation🛠 | Blogging | Everything Data⛏</p></b>
+<b><p align="center">Everything Data | Python | Automation | Blogging</p></b>
 
 
 - 🌱 Hi! I’m Pratik Choudhari and I am currently pursuing Master's of Applied Computing at Uwindsor, CA
