@@ -8,11 +8,9 @@
 - 🌱 I’m currently learning smart contracts on ethereum blockchain
 - 💬 Ask me about python, automation and data science
 - 😄 Pronouns: he, him
-- ⚡ Fun fact: the word __"bug"__ (like a software bug) is called so because engineers literally found bugs(insects) in CPUs!
 - 📫 How to reach me: 
 
 [![linkedin.com](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-choudhari/) 
-[![protonmail.com](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:pratik_choudhari@pm.me) 
 
 ### Blogs
 - [Medium](https://pratik-choudhari.medium.com/)
