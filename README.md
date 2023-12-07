@@ -2,11 +2,17 @@
 
 <b><p align="center">Everything Data | Python | Automation | Blogging</p></b>
 
-
 - 🌱 Hi! I’m Pratik Choudhari and I am currently pursuing Master's of Applied Computing at Uwindsor, CA
 - 💬 Ask me about Data Engineering and Python
 - 😄 Pronouns: he, him
 - 🖋️ Blogs: [Medium](https://pratik-choudhari.medium.com/) [Python Engineer](https://www.python-engineer.com/authors/pratik/)
+
+### Skills and Tech
+
+- Data wrangling: Pandas, Numpy, Matplotlib, Apache AirFlow
+- Database: SQL Server, MySQL, MongoDB, Redis
+- Deployment: Github, Jenkins, AWS, Linux Server
+- Languages: Python, C, BASH, Java  
 
 ### Let's Connect 
 
