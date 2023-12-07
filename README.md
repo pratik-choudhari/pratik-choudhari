@@ -12,7 +12,7 @@
 - Data wrangling: Pandas, Numpy, Matplotlib
 - Scheduling: Apache AirFlow, Crontab
 - Database: SQL Server, MySQL, MongoDB, Redis
-- Deployment: Github, Jenkins, AWS, Linux Server
+- Deployment: Github, Docker, Jenkins, AWS, Linux Server
 - Languages: Python, C, BASH, Java  
 
 ### Let's Connect 
