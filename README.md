@@ -6,6 +6,8 @@
 - 🌱 Hi! I’m Pratik Choudhari and I am currently pursuing Master's of Applied Computing at Uwindsor, CA
 - 💬 Ask me about Data Engineering and Python
 - 😄 Pronouns: he, him
+- Blogs:
+  - a
 
 ### Let's Connect 
 
