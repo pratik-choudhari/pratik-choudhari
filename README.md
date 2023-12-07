@@ -4,11 +4,11 @@
 <b><p align="center">Pythoneer🐍 | Automation🛠 | Blogging | Web Scraping⛏</p></b>
 
 
-<!-- - 🔭 I’m currently working on building a docker guide🤖 -->
-- 🌱 I’m currently learning smart contracts on ethereum blockchain
-- 💬 Ask me about python, automation and data science
+- 🌱 I’m currently pursuing Master's in Applied Computing
+- 💬 Ask me about Data Engineering and Python
 - 😄 Pronouns: he, him
-- 📫 How to reach me: 
+
+### Let's Connect 
 
 [![linkedin.com](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-choudhari/) 
 
