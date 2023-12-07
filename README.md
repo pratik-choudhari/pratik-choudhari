@@ -6,16 +6,11 @@
 - 🌱 Hi! I’m Pratik Choudhari and I am currently pursuing Master's of Applied Computing at Uwindsor, CA
 - 💬 Ask me about Data Engineering and Python
 - 😄 Pronouns: he, him
-- Blogs:
-  - a
+- Blogs: [Medium](https://pratik-choudhari.medium.com/) [Python Engineer](https://www.python-engineer.com/authors/pratik/)
 
 ### Let's Connect 
 
 [![linkedin.com](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-choudhari/) 
-
-### Blogs
-- [Medium](https://pratik-choudhari.medium.com/)
-- [Python Engineer](https://www.python-engineer.com/authors/pratik/)
 
 ### Top open-source contributions
 
