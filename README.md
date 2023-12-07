@@ -4,7 +4,7 @@
 <b><p align="center">Python🐍 | Automation🛠 | Blogging | Everything Data⛏</p></b>
 
 
-- 🌱 I’m currently pursuing Master's in Applied Computing
+- 🌱 I’m currently pursuing Master's in Applied Computing at Uwindsor, CA
 - 💬 Ask me about Data Engineering and Python
 - 😄 Pronouns: he, him
 
