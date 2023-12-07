@@ -12,10 +12,6 @@
 
 [![linkedin.com](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-choudhari/) 
 
-### Top open-source contributions
+### Open-source contributions
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratik-choudhari&repo=AlgoCode)](https://github.com/pratik-choudhari/AlgoCode) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DarshanDeshpande&repo=Scrapera)](https://github.com/DarshanDeshpande/Scrapera)
--- | --
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratik-choudhari&repo=docker-guide)](https://github.com/pratik-choudhari/docker-guide) |   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratik-choudhari&repo=StockNotify)](https://github.com/pratik-choudhari/StockNotify)
-
-
