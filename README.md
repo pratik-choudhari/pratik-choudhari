@@ -4,6 +4,7 @@
 - 💬 Ask me about API development, Data Engineering and Python
 - 😄 Pronouns: he, him
 - 🖋️ Blogs: [Medium](https://pratik-choudhari.medium.com/) [Python Engineer](https://www.python-engineer.com/authors/pratik/)
+- 💻 Hackerrank: https://www.hackerrank.com/profile/pratik_choudhari
 
 ### Skills and Tech
 
