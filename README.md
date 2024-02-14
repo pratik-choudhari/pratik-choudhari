@@ -8,12 +8,12 @@
 
 ### Skills and Tech
 
-- Data wrangling: Pandas, Numpy, Matplotlib
+- Data wrangling: Pandas, Numpy, Matplotlib, Apache Spark
 - Scheduling: Apache AirFlow, Crontab
 - API development: FastAPI, Flask, Django
 - Database: SQL Server, MySQL, MongoDB, Redis
 - Deployment: Github, Docker, Jenkins, AWS, Azure, Linux Servers
-- Languages: Python, C, BASH, Java  
+- Languages: Python, C, Go, BASH, Java  
 
 ### Let's Connect 
 
