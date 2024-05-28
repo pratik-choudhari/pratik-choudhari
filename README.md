@@ -1,27 +1,36 @@
-<p align="center"><img src=https://media1.tenor.com/images/25de5ae4b3a35de905166d6a8cc92411/tenor.gif?itemid=13245309 width="400" height="200"></p>
+# Hello World! 👋 
+I’m Pratik Choudhari, a backend developer, data engineer and a masters student @Uwindsor, CA. I am interested in everything data and system design.
 
-- 🌱 Hi! I’m Pratik Choudhari and I am currently pursuing Master's of Applied Computing at Uwindsor, CA
-- 💬 Ask me about Python, API development, Data Engineering and System Design
-- 😄 Pronouns: he, him
-- 🖋️ Blogs: [Medium](https://pratik-choudhari.medium.com/) [Python Engineer](https://www.python-engineer.com/authors/pratik/)
-- 💻 Hackerrank: https://www.hackerrank.com/profile/pratik_choudhari
+🖋️ Blogs: [Medium](https://pratik-choudhari.medium.com/) [Python Engineer](https://www.python-engineer.com/authors/pratik/)
 
-### Skills and Tech
+💻 Hackerrank: https://www.hackerrank.com/profile/pratik_choudhari
 
-- Data wrangling: Pandas, Numpy, Matplotlib, Apache Spark
-- Scheduling: Apache AirFlow, Crontab
-- API development: FastAPI, Flask, Django
-- Database: SQL Server, MySQL, MongoDB, Redis
-- Deployment: Github, Docker, Jenkins, AWS, Azure, Linux Servers
-- Languages: Python, C, Go, BASH, Java  
+## Skills
 
-### Let's Connect 
+Languages
+
+[![](https://skillicons.dev/icons?i=py,js,go,c,bash)](https://skillicons.dev)
+
+Deployment
+
+[![](https://skillicons.dev/icons?i=github,azure,aws,docker,jenkins,nginx,linux)](https://skillicons.dev)
+
+Database
+
+[![](https://skillicons.dev/icons?i=redis,mongodb,mysql,elasticsearch)](https://skillicons.dev)
+
+Python tools/libraries
+
+[![](https://go-skill-icons.vercel.app/api/icons?i=flask,fastapi,pandas,numpy,matplotlib,sklearn,tensorflow)](https://go-skill-icons.vercel.app)
+
+
+## Connect with me 
 
 [![linkedin.com](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-choudhari/) 
 
-### Open-source contributions
+## Open-source contributions
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratik-choudhari&repo=AlgoCode)](https://github.com/pratik-choudhari/AlgoCode) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DarshanDeshpande&repo=Scrapera)](https://github.com/DarshanDeshpande/Scrapera)
 | --- | --- |
 
-### Checkout my pinned projects!
+## Checkout my pinned projects!
