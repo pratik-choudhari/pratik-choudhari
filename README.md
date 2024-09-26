@@ -5,6 +5,8 @@ I’m Pratik Choudhari, a backend developer, data engineer and a masters student
 
 💻 Hackerrank: https://www.hackerrank.com/profile/pratik_choudhari
 
+👨‍💻 LeetCode: https://leetcode.com/u/pratikchoudhari/
+
 ## Skills
 
 Languages
