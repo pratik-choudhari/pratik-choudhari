@@ -1,5 +1,5 @@
 # Hello World! 👋 
-I’m Pratik Choudhari, a backend developer, data engineer and a masters student @Uwindsor, CA. I am interested in everything data and system design.
+I’m Pratik Choudhari, a backend developer, data engineer and a masters graduate from University of Windsor, CA. I am interested in everything data and system design.
 
 🖋️ Blogs: [Medium](https://pratik-choudhari.medium.com/) [Python Engineer](https://www.python-engineer.com/authors/pratik/)
 
@@ -13,8 +13,9 @@ I’m Pratik Choudhari, a backend developer, data engineer and a masters student
 | :-------------: | :-------------: |
 | Deployment | [![](https://skillicons.dev/icons?i=azure,github,aws,docker,jenkins,nginx)](https://skillicons.dev) |
 | Database | [![](https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb)](https://skillicons.dev) |
-| Tools/Libraries | [![](https://go-skill-icons.vercel.app/api/icons?i=fastapi,pandas,numpy,matplotlib,sklearn,tensorflow)](https://go-skill-icons.vercel.app) |
+| Tools/Libraries | [![](https://go-skill-icons.vercel.app/api/icons?i=fastapi,numpy,matplotlib,sklearn,tensorflow)](https://go-skill-icons.vercel.app) |
 | Framework | [![](https://skillicons.dev/icons?i=spring,django,flask,react)](https://go-skill-icons.vercel.app) |
+| ETL | [![](https://go-skill-icons.vercel.app/api/icons?i=kafka,databricks,spark,pandas,pkl,tableau)](https://go-skill-icons.vercel.app) |
 
 ## Connect with me 
 
