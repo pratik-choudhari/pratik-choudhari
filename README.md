@@ -9,22 +9,12 @@ I’m Pratik Choudhari, a backend developer, data engineer and a masters student
 
 ## Skills
 
-Languages
-
-[![](https://skillicons.dev/icons?i=py,js,go,c,bash)](https://skillicons.dev)
-
-Deployment
-
-[![](https://skillicons.dev/icons?i=github,azure,aws,docker,jenkins,nginx,linux)](https://skillicons.dev)
-
-Database
-
-[![](https://skillicons.dev/icons?i=redis,mongodb,mysql,elasticsearch)](https://skillicons.dev)
-
-Python tools/libraries
-
-[![](https://go-skill-icons.vercel.app/api/icons?i=flask,fastapi,pandas,numpy,matplotlib,sklearn,tensorflow)](https://go-skill-icons.vercel.app)
-
+| Languages  | [![](https://skillicons.dev/icons?i=py,java,js,go,c,bash)](https://skillicons.dev) |
+| :-------------: | :-------------: |
+| Deployment | [![](https://skillicons.dev/icons?i=azure,github,aws,docker,jenkins,nginx)](https://skillicons.dev) |
+| Database | [![](https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb)](https://skillicons.dev) |
+| Tools/Libraries | [![](https://go-skill-icons.vercel.app/api/icons?i=fastapi,pandas,numpy,matplotlib,sklearn,tensorflow)](https://go-skill-icons.vercel.app) |
+| Framework | [![](https://skillicons.dev/icons?i=spring,django,flask,react)](https://go-skill-icons.vercel.app) |
 
 ## Connect with me 
 
