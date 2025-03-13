@@ -1,26 +1,25 @@
-# Hello World! 👋 
+# Turning raw data into powerful insights, one pipeline at a time.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,kafka,databricks,spark,pandas,gcp,azure,docker" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,spark,pandas,gcp,azure,docker" />
   </a>
 </p>
 
-I’m Pratik Choudhari, a backend developer, data engineer and a masters graduate from University of Windsor, CA. I am interested in everything data and system design.
+**👋 Hi, I’m Pratik Choudhari!**
+
+I’m a Data Engineer and a Master’s graduate from the University of Windsor, Canada. I have a deep passion for everything data—from designing efficient data pipelines to building scalable architectures.
+
+I enjoy working on big data technologies, cloud solutions, and system design. Always curious and eager to learn, I thrive on solving complex data challenges and optimizing workflows.
 
 🖋️ Blogs: [Medium](https://pratik-choudhari.medium.com/) [Python Engineer](https://www.python-engineer.com/authors/pratik/)
 
-💻 Hackerrank: https://www.hackerrank.com/profile/pratik_choudhari
+👨‍💻 Platforms: [LeetCode](https://leetcode.com/u/pratikchoudhari/) [Hackerrank](https://www.hackerrank.com/profile/pratik_choudhari)
 
-👨‍💻 LeetCode: https://leetcode.com/u/pratikchoudhari/
-
-## Connect with me 
-
-[![linkedin.com](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-choudhari/) 
+📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/pratik-choudhari/)
 
 ## Open-source contributions
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratik-choudhari&repo=AlgoCode)](https://github.com/pratik-choudhari/AlgoCode) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DarshanDeshpande&repo=Scrapera)](https://github.com/DarshanDeshpande/Scrapera)
 | --- | --- |
 
-## Checkout my pinned projects!
