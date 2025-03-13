@@ -20,6 +20,6 @@ I enjoy working on big data technologies, cloud solutions, and system design. Al
 
 ## Open-source contributions
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratik-choudhari&repo=AlgoCode)](https://github.com/pratik-choudhari/AlgoCode) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DarshanDeshpande&repo=Scrapera)](https://github.com/DarshanDeshpande/Scrapera)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratik-choudhari&repo=docker-guide)](https://github.com/pratik-choudhari/docker-guide) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DarshanDeshpande&repo=Scrapera)](https://github.com/DarshanDeshpande/Scrapera)
 | --- | --- |
 
