@@ -8,7 +8,7 @@
 
 **👋 Hi, I’m Pratik Choudhari!**
 
-I’m a Data Engineer and a Master’s graduate from the University of Windsor, Canada. I have a deep passion for everything data—from designing efficient data pipelines to building scalable architectures.
+I’m a Data Engineer and a Master’s graduate from the University of Windsor, Canada. I have a passion for everything data—from designing efficient data pipelines to building self service BI systems.
 
 I enjoy working on big data technologies, cloud solutions, and system design. Always curious and eager to learn, I thrive on solving complex data challenges and optimizing workflows.
 
@@ -20,6 +20,6 @@ I enjoy working on big data technologies, cloud solutions, and system design. Al
 
 ## Open-source contributions
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratik-choudhari&repo=docker-guide)](https://github.com/pratik-choudhari/docker-guide) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DarshanDeshpande&repo=Scrapera)](https://github.com/DarshanDeshpande/Scrapera)
-| --- | --- |
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Retailogists&repo=gcp-ops-bot)](https://github.com/Retailogists/gcp-ops-bot) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratik-choudhari&repo=docker-guide)](https://github.com/pratik-choudhari/docker-guide) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DarshanDeshpande&repo=Scrapera)](https://github.com/DarshanDeshpande/Scrapera)
+| --- | --- | -- |
 
